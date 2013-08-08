@@ -1,0 +1,19 @@
+{
+    "name": "insignia/incontent",
+    "type": "library",
+    "description": "Incontent library made by Insignia",
+    "keywords": ["framework","library", "cms"],
+    "homepage": "https://github.com/insigniapl/incontent",
+    "license": "none",
+    "authors": [
+        {
+            "name": "Piotr Zając",
+            "email": "p.zajac@insignia.pl",
+            "homepage": "http://insignia.pl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
